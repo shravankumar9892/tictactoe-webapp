@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587924852690,
+  "index": "/tictactoe-webapp/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/tictactoe-webapp/favicon.ico",
+        "/tictactoe-webapp/index.html",
+        "/tictactoe-webapp/main-es2015.b60bf2fcfdd744b5a1e6.js",
+        "/tictactoe-webapp/main-es5.b60bf2fcfdd744b5a1e6.js",
+        "/tictactoe-webapp/manifest.webmanifest",
+        "/tictactoe-webapp/polyfills-es2015.5b10b8fd823b6392f1fd.js",
+        "/tictactoe-webapp/polyfills-es5.3e8196928d184a6e5319.js",
+        "/tictactoe-webapp/runtime-es2015.c5fa8325f89fc516600b.js",
+        "/tictactoe-webapp/runtime-es5.c5fa8325f89fc516600b.js",
+        "/tictactoe-webapp/styles.caad8b199fdc1fd13930.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/tictactoe-webapp/assets/icons/icon-128x128.png",
+        "/tictactoe-webapp/assets/icons/icon-144x144.png",
+        "/tictactoe-webapp/assets/icons/icon-152x152.png",
+        "/tictactoe-webapp/assets/icons/icon-192x192.png",
+        "/tictactoe-webapp/assets/icons/icon-384x384.png",
+        "/tictactoe-webapp/assets/icons/icon-512x512.png",
+        "/tictactoe-webapp/assets/icons/icon-72x72.png",
+        "/tictactoe-webapp/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/tictactoe-webapp/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/tictactoe-webapp/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/tictactoe-webapp/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/tictactoe-webapp/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/tictactoe-webapp/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/tictactoe-webapp/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/tictactoe-webapp/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/tictactoe-webapp/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/tictactoe-webapp/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/tictactoe-webapp/index.html": "55359a3e70de761b9609e985192951c7fa29b2b0",
+    "/tictactoe-webapp/main-es2015.b60bf2fcfdd744b5a1e6.js": "c799ac2395a09c2ce61fa5332fa2541080d5fb82",
+    "/tictactoe-webapp/main-es5.b60bf2fcfdd744b5a1e6.js": "e94e8d06faa84f80b18b8e3979e5dc1be17ca448",
+    "/tictactoe-webapp/manifest.webmanifest": "09910634b75baf8db685efd0e188a85472406249",
+    "/tictactoe-webapp/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "/tictactoe-webapp/polyfills-es5.3e8196928d184a6e5319.js": "a09a6044f37c73c715665663d2dcb61f666618a1",
+    "/tictactoe-webapp/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/tictactoe-webapp/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/tictactoe-webapp/styles.caad8b199fdc1fd13930.css": "d962fcf183749bb668983ab01f77c55b917e8cf4"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
